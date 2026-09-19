@@ -1,6 +1,6 @@
 # Autonomous Reconnaissance Rover with Gas and Metal Detection
 
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-00f0ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ALWINTR/spybot-metal-and-gas-detection)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-00f0ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ALWINTR/Autonomous-Reconnaissance-Rover-with-Gas-and-Metal-Detection)
 [![Developer](https://img.shields.io/badge/Developer-Alwin_T_R-0284c7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alwintr)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
@@ -85,7 +85,7 @@ SpyBot operates using a distributed dual-controller architecture:
 
 1. Clone repository:
    ```bash
-   git clone https://github.com/ALWINTR/spybot-metal-and-gas-detection.git
+   git clone https://github.com/ALWINTR/Autonomous-Reconnaissance-Rover-with-Gas-and-Metal-Detection.git
    ```
 2. Open the source files in Arduino IDE or VS Code PlatformIO.
 3. Install dependencies:
